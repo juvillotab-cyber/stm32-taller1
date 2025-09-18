@@ -3,14 +3,6 @@
 1	205	7791415947030344	CMakeFiles/room_metal.dir/Src/main.c.obj	51bf3e272e4ebe45
 17	298	7791415948029699	CMakeFiles/room_metal.dir/Src/sysmem.c.obj	6363dd7f51fc5604
 9	597	7791415950893864	CMakeFiles/room_metal.dir/Src/syscall.c.obj	8248484d7961ed9e
-358	885	7797471069390725	room_metal.elf	7e5ba848ebb2b4c8
-16	513	7796229353114676	CMakeFiles/room_metal.dir/Src/main.s.obj	7cce5df84eefa8c7
-5	358	7797471066418929	CMakeFiles/room_metal.dir/Src/workshop.s.obj	a41dad31fa6c6320
-39	513	7798712443833020	CMakeFiles/room_metal.dir/Src/workshop.s.obj	a41dad31fa6c6320
-513	1273	7798712448040486	room_metal.elf	7e5ba848ebb2b4c8
-2	121	7798713341756389	CMakeFiles/room_metal.dir/Src/workshop.s.obj	a41dad31fa6c6320
-122	390	7798713343301347	room_metal.elf	7e5ba848ebb2b4c8
-2	287	7798718909661819	CMakeFiles/room_metal.dir/Src/workshop.s.obj	a41dad31fa6c6320
-288	706	7798718911656629	room_metal.elf	7e5ba848ebb2b4c8
-2	81	7798722347944591	CMakeFiles/room_metal.dir/Src/workshop.s.obj	a41dad31fa6c6320
 81	270	7798722349090552	room_metal.elf	7e5ba848ebb2b4c8
+16	513	7796229353114676	CMakeFiles/room_metal.dir/Src/main.s.obj	7cce5df84eefa8c7
+2	81	7798722347944591	CMakeFiles/room_metal.dir/Src/workshop.s.obj	a41dad31fa6c6320
